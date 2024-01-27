@@ -127,7 +127,6 @@ class _LoginPageState extends State<LoginPage> {
                         ),
                       ),
                     ),
-
                     SizedBox(height: MediaQuery.of(context).size.width * .01),
                     Observer(
                         builder: (context){
